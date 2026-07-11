@@ -58,9 +58,10 @@ The **ReSpeaker XVF3800 USB 4-Mic Array** is a professional circular 4-microphon
 
 🛒  Purchase  -   
   
+🟥 Buy reSpeaker XVF3800 🔗 [Product page](https://www.seeedstudio.com/ReSpeaker-XVF3800-With-Case-XIAO-ESP32S3-p-6628.html?utm_source=kol&utm_medium=make2explore&utm_campaign=3800+With+Xiao)  
+
 🌐 SeeedStudio Official Website : 🔗 https://www.seeedstudio.com  
 
-🟥 Buy reSpeaker XVF3800 🔗 [Product page](https://www.seeedstudio.com/ReSpeaker-XVF3800-With-Case-XIAO-ESP32S3-p-6628.html?utm_source=kol&utm_medium=make2explore&utm_campaign=3800+With+Xiao)  
   
 🚀 Projects - 
   - Refer Project [reSpeaker XVF3800 + Agora Conversational AI](https://wiki.seeedstudio.com/respeaker_xvf3800_agora_convo_client/)  
