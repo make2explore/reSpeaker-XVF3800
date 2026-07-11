@@ -23,10 +23,9 @@ The **ReSpeaker XVF3800 USB 4-Mic Array** is a professional circular 4-microphon
 
 - Refer the [Official Wiki Documentation](https://wiki.seeedstudio.com/respeaker_xvf3800_xiao_getting_started/) for more information.  
 - Refer [SeeedStudio Announcement Blog](https://www.seeedstudio.com/blog/2025/08/08/new-release-respeaker-xmos-xvf3800-ai-powered-4-microphone-array-for-clear-voice-even-in-noise/)  
-- Refer [reSpeaker XVF3800 + Agora Conversational AI](https://wiki.seeedstudio.com/respeaker_xvf3800_agora_convo_client/)  
-- Refer [reSpeaker Xiaozhi AI voice assistant](https://wiki.seeedstudio.com/respeaker_xvf_3800_xiaozhi/)  
 - Technical Support [SeeedStudio Support Forum](https://forum.seeedstudio.com/)  
 - ReSpeaker Product [Document PDF](https://files.seeedstudio.com/Bazaar/product_pdf/114993702.pdf)  
+- Buy reSpeaker XVF3800 🔗 [Product page](https://www.seeedstudio.com/ReSpeaker-XVF3800-With-Case-XIAO-ESP32S3-p-6628.html?utm_source=kol&utm_medium=make2explore&utm_campaign=3800+With+Xiao) 
 
 **Software**
 - Arduino IDE [Download](https://www.arduino.cc/en/software/)  
@@ -34,7 +33,7 @@ The **ReSpeaker XVF3800 USB 4-Mic Array** is a professional circular 4-microphon
 - Arduino Audio Tools library [Download](https://github.com/pschatzmann/arduino-audio-tools)  
   
 **Hardware**
-- reSpeaker XMOS XVF3800 with XIAO ESP32S3  
+- [**reSpeaker XMOS XVF3800 with XIAO ESP32S3**] (https://www.seeedstudio.com/ReSpeaker-XVF3800-With-Case-XIAO-ESP32S3-p-6628.html?utm_source=kol&utm_medium=make2explore&utm_campaign=3800+With+Xiao)  
 - USB Type C to Type A cable  
  
 
@@ -62,6 +61,10 @@ The **ReSpeaker XVF3800 USB 4-Mic Array** is a professional circular 4-microphon
 🌐 SeeedStudio Official Website : 🔗 https://www.seeedstudio.com  
 
 🟥 Buy reSpeaker XVF3800 🔗 [Product page](https://www.seeedstudio.com/ReSpeaker-XVF3800-With-Case-XIAO-ESP32S3-p-6628.html?utm_source=kol&utm_medium=make2explore&utm_campaign=3800+With+Xiao)  
+  
+🚀 Projects - 
+  - Refer Project [reSpeaker XVF3800 + Agora Conversational AI](https://wiki.seeedstudio.com/respeaker_xvf3800_agora_convo_client/)  
+  - Refer Project [reSpeaker Xiaozhi AI voice assistant](https://wiki.seeedstudio.com/respeaker_xvf_3800_xiaozhi/)  
 
 
 ------------------------------------------------------------------------------------------------------
