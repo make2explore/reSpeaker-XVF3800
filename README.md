@@ -10,7 +10,7 @@ The **ReSpeaker XVF3800 USB 4-Mic Array** is a professional circular 4-microphon
 ## Features
 - Chip upgrade :From XVF3000 to XVF3800
 - Quad Microphone Array :4 high-performance mics in circular pattern for 360° far-field voice capture up to 5 meters
-- Advanced Audio Processing :Powered by XVF3800 with AEC, multi-beamforming, de-reverberation, DoA detection, dynamic noise suppression, 60dB AGC range
+- Advanced Audio Processing :Powered by XVF3800 with **AEC**, **multi-beamforming**, **de-reverberation**, **DoA detection**, **dynamic noise suppression**, **60dB AGC range**
 - Unique Device Serial Number :Built-in SN enables multi-device deployments and advanced device management
 - Dual Operation Modes :USB plug-and-play mode for instant PC connectivity and INT-Device (I2S) mode for integration with embedded systems—configurable via USB or I2C commands by switching the firmware accordingly
 - Open Source Compatible :Works with USB hosts (Windows, macOS, Raspberry Pi OS) and I2S hosts (XIAO Series, ESP32, Arduino).
