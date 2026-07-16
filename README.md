@@ -43,7 +43,7 @@ The **ReSpeaker XVF3800 USB 4-Mic Array** is a professional circular 4-microphon
 
 ▶️ Inside the ReSpeaker XVF3800 Voice AI Dev Kit✨  #ai #esp32 🔗  https://youtube.com/shorts/igvbQ5YoHng  
 
-▶️ Project on ReSpeaker XVF3800 🔗  https://youtu.be/  
+▶️ DIY Project on ReSpeaker XVF3800 🔗  https://youtu.be/  
   
 
 -------------------------------------------------------------------------------------------------------
